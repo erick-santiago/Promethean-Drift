@@ -1,3 +1,2 @@
-# Promethean-Drift
-Retro FPS - Alpha version
-README Coming Soon...
+## Promethean-Drift
+A retro FPS created in Unity
